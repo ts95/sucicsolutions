@@ -1,2 +1,2 @@
-# sucicsolutions
-Sucic Solutions Nettside
+# Sucic Solutions
+Hjemmesiden til enkeltpersonforetaket Sucic Solutions.
